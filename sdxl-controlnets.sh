@@ -3,7 +3,7 @@
 wget -O "/segmind/stable-diffusion-webui/models/Stable-diffusion/sdxl_base_1-0.safetensors" https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors?download=true
 wget -O "/segmind/stable-diffusion-webui/models/VAE/sdxl_base_1-0.safetensors" https://huggingface.co/madebyollin/sdxl-vae-fp16-fix/resolve/main/sdxl_vae.safetensors?download=true
 wget -O "/segmind/stable-diffusion-webui/models/VAE/dreamshaper_xl.safetensors" https://huggingface.co/madebyollin/sdxl-vae-fp16-fix/resolve/main/sdxl_vae.safetensors?download=true
-wget -O "/segmind/stable-diffusion-webui/models/Stable-diffusion/realvision_xl.safetensors" https://civitai.com/api/download/models/272378 --content-disposition
+wget -O "/segmind/stable-diffusion-webui/models/Stable-diffusion/realvis_xl_v4_turbo.safetensors" https://civitai.com/api/download/models/344487 --content-disposition
 wget -O "/segmind/stable-diffusion-webui/models/Stable-diffusion/juggernaut_xl_v8.safetensors" https://civitai.com/api/download/models/288982 --content-disposition
 wget -O "/segmind/stable-diffusion-webui/models/Stable-diffusion/dreamshaper_xl.safetensors" https://civitai.com/api/download/models/251662 --content-disposition
 
